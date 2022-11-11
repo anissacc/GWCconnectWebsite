@@ -135,6 +135,17 @@ section .row img {
   transform: translate(-50%, -50%);
 }
 
+.btn-third { 
+  cursor: pointer;
+  background-color: #53BBD5;
+  color: #000000;
+  font-size: 24px;
+}
+
+.btn-third:active{
+  top: 2px;
+}
+
 .container1{
   height: -175px;
   position: relative;
