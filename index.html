@@ -44,11 +44,9 @@
         <p>
             This is what a question looks like!
         </p>
-        <a class="btn btn-secondary" role="button">Respond</a>
-        <!--On click of respond another text and submit box should appear-->
-	<p id='questionResponse' class='questionResponse'>Respond to the question here!</p>
-	<input type="text"><br><br> 
-        <input type="submit" value="submit">
+	<form>
+	  <input type="button" value="Respond" onclick='document.innerHTML="Respond to question here!"'>
+	</form>
 	<h1>Ask a question</h1>
         <input type="text"><br><br>
         <input type="submit" value="Submit">
