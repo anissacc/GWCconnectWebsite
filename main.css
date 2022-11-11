@@ -146,6 +146,10 @@ section .row img {
   transform: translate(-50%, -50%);
 }
 
+.questionResponse{
+  display: none;
+}
+
 footer {
   font-size: 12px;
   padding: 20px 0;
