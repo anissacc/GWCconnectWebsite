@@ -92,6 +92,7 @@ section .row img {
   color: #006079;
   text-shadow: none;
   background-color: #ffffff;
+  float: center;
 }
 
 .btn.btn-primary:hover {
