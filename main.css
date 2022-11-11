@@ -28,12 +28,14 @@ header nav {
 }
 
 header p {
+  text-align: center;
   padding: 0 18px;
   margin: 0;
   font-size: 24px;
 }
 
 header p2 {
+  text-align: center;
   padding: 0 1px;
   margin: 0;
   font-size: 24px;
