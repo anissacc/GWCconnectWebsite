@@ -105,9 +105,14 @@ section .row img {
 }
 
 .btn-secondary {
+  cursor: pointer;
   background-color: #53BBD5;
   color: #000000;
   font-size: 24px;
+}
+
+.btn-secondary:active{
+  transform: translate(2px);
 }
 
 .container{
