@@ -92,6 +92,10 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.questionContainer{
+  bottom: 30px;
+}
+
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
