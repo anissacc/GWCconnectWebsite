@@ -112,7 +112,7 @@ section .row img {
 }
 
 .btn-secondary:active{
-  transform: translate(2px);
+  top: 2px;
 }
 
 .container{
